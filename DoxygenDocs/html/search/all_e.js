@@ -1,0 +1,7 @@
+var searchData=
+[
+  ['randompu_117',['RandomPU',['../class_a_r_1_1_space_invaders.html#ad8495241d59e008c5ff3347c596d8831a33d146878b42f5f3af0556c75a10f93b',1,'AR::SpaceInvaders']]],
+  ['reset_118',['Reset',['../class_a_r_1_1_player.html#a98d8b6d6fb93c044e0e199d6351d0205',1,'AR::Player::Reset()'],['../class_a_r_1_1_game_state.html#a1b472beb25c440b00874088b93c721f8',1,'AR::GameState::Reset()'],['../class_a_r_1_1_space_invaders.html#aada3634d4ae016254ac8bcc68c530b67',1,'AR::SpaceInvaders::Reset()']]],
+  ['resumegame_119',['ResumeGame',['../class_a_r_1_1_game_input.html#a2cdc444c6967ff44e59ba6da7d485f23',1,'AR::GameInput::ResumeGame()'],['../class_a_r_1_1_g_i_s_i.html#a99ba0af8a64e90487c8dba7f070ad3a3',1,'AR::GISI::ResumeGame()'],['../class_a_r_1_1_game_state.html#ab65e0939321e1af93bd47a0193155323',1,'AR::GameState::ResumeGame()']]],
+  ['revive_120',['Revive',['../class_a_r_1_1_alien.html#a3b7d20bf49613f08ab20f1d2c3f6b764',1,'AR::Alien::Revive()'],['../class_a_r_1_1_bullet.html#ad4394c4727ecfb54c11054d250e871b0',1,'AR::Bullet::Revive()'],['../class_a_r_1_1_player.html#a36bab6f7ed5403473e9fd5a982450243',1,'AR::Player::Revive()'],['../class_a_r_1_1_power_up.html#ac473ee0d26ed15c028ff0a2322b83cd0',1,'AR::PowerUp::Revive()'],['../class_a_r_1_1_shield.html#ad87454fa7dbbea9cc9b1e7707f941d83',1,'AR::Shield::Revive()'],['../class_a_r_1_1_object.html#affd759535286400c4d7e70f5f515eb6f',1,'AR::Object::Revive()']]]
+];
