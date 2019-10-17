@@ -30,3 +30,12 @@
 *.exe
 *.out
 *.app
+
+# Excluded folders
+build/
+
+# .DS_Store
+*.DS_Store
+
+# Exclude executable
+bin/Space-Invaders
