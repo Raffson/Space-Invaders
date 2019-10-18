@@ -39,3 +39,6 @@ build/
 
 # Exclude executable
 bin/Space-Invaders
+
+# Doxygen
+DoxygenDocs/
